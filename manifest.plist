@@ -36,7 +36,7 @@
       <dict>
        <!-- required -->
        <key>bundle-identifier</key>
-       <string>com.yourwebsite.app</string>
+       <string>vn.huecity.hues</string>
        <!-- optional (software only) -->
        <key>bundle-version</key>
        <string>1.0</string>
