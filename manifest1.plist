@@ -36,7 +36,7 @@
       <dict>
        <!-- required -->
        <key>bundle-identifier</key>
-       <string>vn.stttt.hues</string>
+       <string>vn.gov.thuathienhue.testenterprise</string>
        <!-- optional (software only) -->
        <key>bundle-version</key>
        <string>1.0</string>
