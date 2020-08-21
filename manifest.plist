@@ -1,45 +1,56 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>items</key>
-	<array>
-		<dict>
-			<key>assets</key>
-			<array>
-				<dict>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://dl.dropboxusercontent.com/s/4wtsaa3t1zwrshl/dfsdfsdf.ipa</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>url</key>
-					<string>https://raw.githubusercontent.com/PhungVanHoa/testipa/gh-pages/180.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>url</key>
-					<string>https://raw.githubusercontent.com/PhungVanHoa/testipa/gh-pages/180.png</string>
-				</dict>
-			</array>
-			<key>metadata</key>
-			<dict>
-				<key>bundle-identifier</key>
-				<string>vn.hues.dfsdfsdf</string>
-				<key>bundle-version</key>
-				<string>1.0</string>
-				<key>kind</key>
-				<string>software</string>
-				<key>platform-identifier</key>
-				<string>com.apple.platform.iphoneos</string>
-				<key>title</key>
-				<string>Chốt kiểm soát</string>
-			</dict>
-		</dict>
-	</array>
+  <!-- array of downloads. -->
+  <key>items</key>
+  <array>
+   <dict>
+    <!-- an array of assets to download -->
+     <key>assets</key>
+      <array>
+       <!-- software-package: the ipa to install. -->
+        <dict>
+         <!-- required. the asset kind. -->
+          <key>kind</key>
+          <string>software-package</string>
+          <!-- required. the URL of the file to download. -->
+          <key>url</key>
+       <string>https://dl.dropboxusercontent.com/s/vsjhjaa4x957ijt/ZXZxZxzxZxZx.ipa</string>          
+        </dict>
+        <!-- display-image: the icon to display during download.-->
+        <dict>
+         <key>kind</key>
+         <string>display-image</string>
+         <key>url</key>
+         <string>http://www.yourwebsite.com/inhouse/icon.png</string>
+        </dict>
+        <!-- full-size-image: the large 512x512 icon used by iTunes. -->
+        <dict>
+         <key>kind</key>
+         <string>full-size-image</string>
+         <key>needs-shine</key>
+         <true/>
+         <key>url</key><string>http://www.yourwebsite.com/inhouse/iTunesArtwork.png</string>
+        </dict>
+      </array><key>metadata</key>
+      <dict>
+       <!-- required -->
+       <key>bundle-identifier</key>
+       <string>vn.hues.ZXZxZxzxZxZx</string>
+       <!-- optional (software only) -->
+       <key>bundle-version</key>
+       <string>1.0</string>
+       <!-- required. the download kind. -->
+       <key>kind</key>
+       <string>software</string>
+       <!-- optional. displayed during download; typically company name -->
+       <key>subtitle</key>
+       <string>test</string>
+       <!-- required. the title to display during the download. -->
+       <key>title</key>
+       <string>test</string>
+      </dict>
+    </dict>
+  </array>
 </dict>
 </plist>
