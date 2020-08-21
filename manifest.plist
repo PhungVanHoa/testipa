@@ -22,7 +22,7 @@
          <key>kind</key>
          <string>display-image</string>
          <key>url</key>
-         <string>http://www.yourwebsite.com/inhouse/icon.png</string>
+         <string>https://raw.githubusercontent.com/PhungVanHoa/testipa/gh-pages/180.png</string>
         </dict>
         <!-- full-size-image: the large 512x512 icon used by iTunes. -->
         <dict>
@@ -30,7 +30,7 @@
          <string>full-size-image</string>
          <key>needs-shine</key>
          <true/>
-         <key>url</key><string>http://www.yourwebsite.com/inhouse/iTunesArtwork.png</string>
+         <key>url</key><string>https://raw.githubusercontent.com/PhungVanHoa/testipa/gh-pages/180.png</string>
         </dict>
       </array><key>metadata</key>
       <dict>
