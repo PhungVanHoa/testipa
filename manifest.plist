@@ -36,7 +36,7 @@
       <dict>
        <!-- required -->
        <key>bundle-identifier</key>
-       <string>vn.hues.flutterAppDistribute</string>
+       <string>app.ioc.com.chotkiemsoat</string>
        <!-- optional (software only) -->
        <key>bundle-version</key>
        <string>1.0</string>
