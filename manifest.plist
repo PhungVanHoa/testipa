@@ -22,7 +22,7 @@
          <key>kind</key>
          <string>display-image</string>
          <key>url</key>
-         <string>http://www.yourwebsite.com/inhouse/icon.png</string>
+         <string>https://raw.githubusercontent.com/PhungVanHoa/testipa/gh-pages/180.png</string>
         </dict>
         <!-- full-size-image: the large 512x512 icon used by iTunes. -->
         <dict>
@@ -36,10 +36,10 @@
       <dict>
        <!-- required -->
        <key>bundle-identifier</key>
-       <string>vn.hues.test</string>
+       <string>vn.hues.test1</string>
        <!-- optional (software only) -->
        <key>bundle-version</key>
-       <string>1.0</string>
+       <string>1.2</string>
        <!-- required. the download kind. -->
        <key>kind</key>
        <string>software</string>
