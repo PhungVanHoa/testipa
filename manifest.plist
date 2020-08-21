@@ -15,7 +15,7 @@
           <string>software-package</string>
           <!-- required. the URL of the file to download. -->
           <key>url</key>
-       <string>https://dl.dropboxusercontent.com/s/6xir6w8t2nxy8vt/test.ipa</string>          
+       <string>https://dl.dropboxusercontent.com/s/il76i1dxbjn2zti/test.ipa</string>          
         </dict>
         <!-- display-image: the icon to display during download.-->
         <dict>
