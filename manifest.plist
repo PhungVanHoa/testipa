@@ -36,7 +36,7 @@
       <dict>
        <!-- required -->
        <key>bundle-identifier</key>
-       <string>vn.hues.test1</string>
+       <string>vn.hues.test2</string>
        <!-- optional (software only) -->
        <key>bundle-version</key>
        <string>1.2</string>
