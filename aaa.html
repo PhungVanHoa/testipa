@@ -6,18 +6,22 @@
 <body>
 
     <button onclick="myFunction()">Click me</button>
-    <p id="demo">1</p>
+    <p id="demo">1222222</p>
 
 <script>
 function myFunction() {
+      window.opener.postMessage({
+        'ss':"ss",
+        'cc':"cc"
+    }, '*');
     window.close();
 }
-window.onbeforeunload = function() {
+/*window.onbeforeunload = function() {
     window.opener.postMessage({
         'ss':"ss",
         'cc':"cc"
     }, '*');
-};
+};*/
 </script>
 
 </body>
