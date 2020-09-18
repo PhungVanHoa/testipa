@@ -15,7 +15,8 @@
           <string>software-package</string>
           <!-- required. the URL of the file to download. -->
           <key>url</key>
-       <string></string>          
+  <string>https://dl.dropboxusercontent.com/s/s3u00lv7vcqq77b/VTP.ipa</string> 
+       
         </dict>
         <!-- display-image: the icon to display during download.-->
         <dict>
