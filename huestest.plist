@@ -36,7 +36,7 @@
       <dict>
        <!-- required -->
        <key>bundle-identifier</key>
-       <string>vn.stttt.hues.test</string>
+       <string>vn.stttt.hues</string>
        <!-- optional (software only) -->
        <key>bundle-version</key>
        <string>1.0</string>
@@ -45,10 +45,10 @@
        <string>software</string>
        <!-- optional. displayed during download; typically company name -->
        <key>subtitle</key>
-       <string>Hue-S(Test)</string>
+       <string>Hue-S</string>
        <!-- required. the title to display during the download. -->
        <key>title</key>
-       <string>Hue-S(Test)</string>
+       <string>Hue-S</string>
       </dict>
     </dict>
   </array>
