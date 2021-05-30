@@ -36,7 +36,7 @@
       <dict>
        <!-- required -->
        <key>bundle-identifier</key>
-       <string>org.reactjs.native.example.example1</string>
+       <string>org.rea1ctjs.native.example.example1</string>
        <!-- optional (software only) -->
        <key>bundle-version</key>
        <string>1.0</string>
