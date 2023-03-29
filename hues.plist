@@ -15,7 +15,7 @@
           <string>software-package</string>
           <!-- required. the URL of the file to download. -->
           <key>url</key>
-       <string>https://dl.dropboxusercontent.com/s/135mik37bm5hy27/HueS.ipa</string>          
+       <string>https://dichvu.huecity.vn/uploads/HueS.ipa</string>          
         </dict>
         <!-- display-image: the icon to display during download.-->
         <dict>
